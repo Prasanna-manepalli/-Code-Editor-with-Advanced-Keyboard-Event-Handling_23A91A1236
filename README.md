@@ -1,4 +1,4 @@
-# Week 14 – High-Performance Code Editor
+# High-Performance Code Editor
 
 Browser-based code editor with advanced keyboard shortcut handling and a real-time event debugging dashboard, designed to mimic VS Code–style behavior.
 
